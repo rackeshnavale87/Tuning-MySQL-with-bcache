@@ -1,6 +1,6 @@
 # YCSB_MySQL_Bcache
 
-- <b>YCSB Benchmarking for MySQL datastore (with & without - bcache)</b><br>
+- <b>Installation of 'bcache' for performance tuning</b><br>
 - Database : <b>MySQL</b><br>
 - Benchmark <b>YCSB.</b><br>
 - Cache : <b>bcahce</b><br>
